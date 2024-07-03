@@ -3,3 +3,12 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+weaviate:1.19.0
+redis:6-alpine
+dify-sandbox:0.2.1
+nginx
+dify-api:0.6.9
+dify-web:0.6.9
+db
+ssrf_proxy
